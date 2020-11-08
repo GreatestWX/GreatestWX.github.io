@@ -1,59 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <script src="https://cdn.jsdelivr.net/npm/phaser@3.15.1/dist/phaser-arcade-physics.min.js"></script>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <style>
+        div {
+            border: 1px solid red;
+        }
+        h1 {
+            font-size: 1.6rem;
+            margin: 15px 10px;
+        }
+        p {
+            margin: 0 10px 0 10px;
+        }
+        html {
+            height: 100%;
+        }
+        body{
+            border: 2px solid #ffc700;
+            height: 100%;
+            background: rgb(219,21,21);
+            background: linear-gradient(180deg, rgba(219,21,21,1) 0%, rgba(255,181,0,1) 54%, rgba(255,237,0,1) 100%);       }
+
+
+    </style>
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8">
+    <title></title>
 </head>
 <body>
+<h1 class="row">
+    <h1>
+        Description:
+    </h1>
+    <p>
+        I make videos about games and maybe some other stuff in the future.
+    </p>
+    <p>
+        I don't know what yet but I am excited to find out. I hope you are too!
+    </p>
+</div>
 
-<script>
-    var config = {
-        type: Phaser.AUTO,
-        width: 800,
-        height: 600,
-        physics: {
-            default: 'arcade',
-            arcade: {
-                gravity: { y: 200 }
-            }
-        },
-        scene: {
-            preload: preload,
-            create: create
-        }
-    };
 
-    var game = new Phaser.Game(config);
-
-    function preload ()
-    {
-        // this.load.setBaseURL('http://labs.phaser.io');
-
-        this.load.image('sky', './assets/space3.png');
-        this.load.image('logo', './assets/LOGO.gif');
-        this.load.image('yellow', './assets/red.png');
-    }
-
-    function create ()
-    {
-        this.add.image(400, 300, 'sky');
-
-        var particles = this.add.particles('yellow');
-
-        var emitter = particles.createEmitter({
-            speed: 100,
-            scale: { start: 1, end: 0 },
-            blendMode: 'ADD'
-        });
-
-        var logo = this.physics.add.image(400, 100, 'logo');
-
-        logo.setVelocity(100, 200);
-        logo.setBounce(1, 1);
-        logo.setCollideWorldBounds(true);
-
-        emitter.startFollow(logo);
-    }
-</script>
-
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </body>
 </html>

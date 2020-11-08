@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="First version">
+    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Fix image locations">
+      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -43,6 +63,11 @@
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="index" type="JavascriptDebugType" uri="http://localhost:63342/game-test/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +76,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602952861147</updated>
-      <workItem from="1602952862973" duration="1768000" />
+      <workItem from="1602952862973" duration="2296000" />
+      <workItem from="1603627495552" duration="2000" />
+      <workItem from="1603737567044" duration="9000" />
+      <workItem from="1604855456705" duration="3366000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <created>1602954475996</created>
@@ -60,29 +88,69 @@
       <option name="project" value="LOCAL" />
       <updated>1602954475996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed to HTTPS">
+      <created>1602954998338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602954998338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added images">
+      <created>1602955168088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602955168088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix image locations">
+      <created>1602955255651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602955255651</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version" />
+    <MESSAGE value="Changed to HTTPS" />
+    <MESSAGE value="Added images" />
+    <MESSAGE value="Fix image locations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix image locations" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="209" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602952999649">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856816701">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="209" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.724@0.23.1280.724" timestamp="1602952999649" />
+    <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.730@0.23.1280.730" timestamp="1604856816701" />
     <state x="507" y="289" width="643" height="311" key="Github.ShareDialog" timestamp="1602954562442">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="507" y="289" width="643" height="311" key="Github.ShareDialog/0.23.1280.724@0.23.1280.724" timestamp="1602954562442" />
-    <state x="240" y="125" key="Vcs.Push.Dialog.v2" timestamp="1602954614716">
+    <state x="427" y="97" key="RollbackChangesDialog" timestamp="1604857426010">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="427" y="97" key="RollbackChangesDialog/0.23.1280.730@0.23.1280.730" timestamp="1604857426010" />
+    <state x="240" y="125" key="Vcs.Push.Dialog.v2" timestamp="1602955261056">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
-    <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1602954614716" />
+    <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1602955261056" />
     <state x="462" y="286" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602954585415">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
