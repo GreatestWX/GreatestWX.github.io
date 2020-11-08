@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Fix image locations">
-      <change afterPath="$PROJECT_DIR$/game.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Created new home page">
+      <change afterPath="$PROJECT_DIR$/assets/banner.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -39,6 +38,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1j0tVF1Pix6XTPlOa1xuyET6n7h" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,7 +79,7 @@
       <workItem from="1602952862973" duration="2296000" />
       <workItem from="1603627495552" duration="2000" />
       <workItem from="1603737567044" duration="9000" />
-      <workItem from="1604855456705" duration="3366000" />
+      <workItem from="1604855456705" duration="5504000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <created>1602954475996</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602955255651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created new home page">
+      <created>1604864373871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604864373871</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +138,8 @@
     <MESSAGE value="Changed to HTTPS" />
     <MESSAGE value="Added images" />
     <MESSAGE value="Fix image locations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix image locations" />
+    <MESSAGE value="Created new home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new home page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856816701">
@@ -147,13 +155,18 @@
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="427" y="97" key="RollbackChangesDialog/0.23.1280.730@0.23.1280.730" timestamp="1604857426010" />
-    <state x="240" y="125" key="Vcs.Push.Dialog.v2" timestamp="1602955261056">
-      <screen x="0" y="23" width="1280" height="724" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1604864389155">
+      <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1602955261056" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1604864389155" />
     <state x="462" y="286" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602954585415">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="462" y="286" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1280.724@0.23.1280.724" timestamp="1602954585415" />
+    <state x="305" y="77" width="670" height="676" key="search.everywhere.popup" timestamp="1604866325029">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="305" y="77" width="670" height="676" key="search.everywhere.popup/0.23.1280.730@0.23.1280.730" timestamp="1604866325029" />
   </component>
 </project>
