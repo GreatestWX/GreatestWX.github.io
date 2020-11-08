@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Created new home page">
-      <change afterPath="$PROJECT_DIR$/assets/banner.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Added logo banner" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +75,7 @@
       <workItem from="1602952862973" duration="2296000" />
       <workItem from="1603627495552" duration="2000" />
       <workItem from="1603737567044" duration="9000" />
-      <workItem from="1604855456705" duration="5504000" />
+      <workItem from="1604855456705" duration="5813000" />
     </task>
     <task id="LOCAL-00001" summary="First version">
       <created>1602954475996</created>
@@ -116,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604864373871</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added logo banner">
+      <created>1604866729535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604866729535</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +142,8 @@
     <MESSAGE value="Added images" />
     <MESSAGE value="Fix image locations" />
     <MESSAGE value="Created new home page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created new home page" />
+    <MESSAGE value="Added logo banner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added logo banner" />
   </component>
   <component name="WindowStateProjectService">
     <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856816701">
@@ -155,11 +159,11 @@
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="427" y="97" key="RollbackChangesDialog/0.23.1280.730@0.23.1280.730" timestamp="1604857426010" />
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1604864389155">
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1604866740952">
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1602955261056" />
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1604864389155" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1604866740952" />
     <state x="462" y="286" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602954585415">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
