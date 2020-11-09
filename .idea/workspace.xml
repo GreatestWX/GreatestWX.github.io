@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Logo banner @media" />
+    <list default="true" id="88e5fd3c-caa1-4055-a46a-272dc66ab075" name="Default Changelist" comment="Added button for Youtube channel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604867110461</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added button for Youtube channel">
+      <created>1604869368824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604869368824</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +169,8 @@
     <MESSAGE value="Added logo banner" />
     <MESSAGE value="Make logo lower case" />
     <MESSAGE value="Rename logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename logo" />
+    <MESSAGE value="Added button for Youtube channel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added button for Youtube channel" />
   </component>
   <component name="WindowStateProjectService">
     <state x="209" y="23" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604856816701">
@@ -175,11 +186,11 @@
       <screen x="0" y="23" width="1280" height="730" />
     </state>
     <state x="427" y="97" key="RollbackChangesDialog/0.23.1280.730@0.23.1280.730" timestamp="1604857426010" />
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1604867114058">
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1604869372359">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
     <state x="240" y="125" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1602955261056" />
-    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.728@0.23.1280.728" timestamp="1604867114058" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.728@0.23.1280.728" timestamp="1604869372359" />
     <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.730@0.23.1280.730" timestamp="1604866937790" />
     <state x="462" y="286" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602954585415">
       <screen x="0" y="23" width="1280" height="724" />
